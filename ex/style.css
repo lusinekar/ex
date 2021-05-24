@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(240, 205, 205);
+}
+
+.container {
+    margin: 100px;
+    padding: 100px;
+}
+
+.container div{
+    text-align: center;
+}
+
+.div2 {
+   margin: 80px;
+}
+
+hr{
+    width: 100px;
+}
